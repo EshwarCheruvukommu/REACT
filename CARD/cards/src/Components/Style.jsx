@@ -9,7 +9,7 @@ export default function Style(){
             <div className="first">
                 <img src="https://i.pinimg.com/originals/ea/f4/36/eaf4368bac595227b089b0b9cc5909cc.jpg" alt="" />
                 <h2><a target="_blank" href="https://www.instagram.com/cristiano/">CRISTIANO RONALDO</a></h2>
-                <h3>PORTUGALL</h3>
+                <h3>PORTUGAL</h3>
                 <h2>664 MILLION FOLLOWERS</h2>
                 <h3>ATHLETE</h3>
             </div>
