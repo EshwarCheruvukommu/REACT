@@ -1,9 +1,9 @@
+import Style from "./Components/Style"
 
-import Style from "./Components/style"
 function App() {
   return (
     <>
-     <Style></Style>
+      <Style />
     </>
   )
 }
